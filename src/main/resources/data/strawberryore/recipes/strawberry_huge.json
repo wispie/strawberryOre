@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:copper_block"
+    },
+	"X":
+    {
+      "item": "strawberryore:strawberry"
+    }
+  },
+  "result":
+  {
+    "item": "strawberryore:strawberry_huge",
+    "count": 3
+  }
+}
